@@ -1,0 +1,8 @@
+cv2
+mediapipe
+time
+distance
+pygame
+matplotlib
+pyfirmata
+threading
