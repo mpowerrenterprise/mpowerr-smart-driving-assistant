@@ -93,7 +93,7 @@ The **Safe Driving System** is designed to enhance the safety of vehicle drivers
 
 ---
 
-## Components Required
+## 🛠️ Components Required
 
 - **Arduino Board (e.g., Arduino Uno)**
 
@@ -154,7 +154,7 @@ To identify the COM port your Arduino is connected to on a Windows machine, foll
 
 The Python program will interact with the Arduino and camera. It will use libraries such as `pyserial` for Arduino communication and OpenCV for video capture and processing.
 
-### Required Python Libraries
+### 📚 Required Python Libraries
 
 You will need the following Python libraries to run the project:
 
@@ -177,7 +177,7 @@ You will need the following Python libraries to run the project:
 - `threading`: For managing multiple processes in the program (e.g., camera capture and Arduino control).
 
 
-### Install the required libraries using pip:
+### 📦 Install the required libraries using pip:
 
 1. ```pip install pyserial```
 
@@ -199,6 +199,6 @@ You will need the following Python libraries to run the project:
 
 ---
 
-## Contact
+## 📞 Contact
 
 - [Website](https://www.gunarakulan.info/)
