@@ -144,11 +144,16 @@ To identify the COM port your Arduino is connected to on a Windows machine, foll
 
 ### 1. System Setup Demo
 
-![alt text](docs/Media/demo.webp)
+![alt text](docs/Media/images/demo.webp)
 
 ### 2. Driving Demo
 
-![alt text](docs/Media/step-by-step.webp)
+![alt text](docs/Media/images/step-by-step.webp)
+
+### 3. Demo Video
+
+<video controls src="docs/Media/videos/demo_video.mp4" title="Title"></video>
+
 
 ## Setting Up the Python Program
 
