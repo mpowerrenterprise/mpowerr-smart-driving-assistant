@@ -83,12 +83,12 @@ The **Safe Driving System** is designed to enhance the safety of vehicle drivers
 
 ### 1. Servo Motor
 
-![alt text](docs/Media/servo.PNG)
+![alt text](docs/Media/images/servo.PNG)
 
 
 ### 2. LED Light
 
-![alt text](docs/Media/led.PNG)
+![alt text](docs/Media/images/led.PNG)
 
 
 ---
