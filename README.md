@@ -1,6 +1,6 @@
-# Safe Driving System
+# Smart Driving Assistant
 
-The **Safe Driving System** is designed to enhance the safety of vehicle drivers by monitoring their alertness while driving. If the system detects drowsiness, it takes immediate action to wake the driver using a combination of audio alarms, LED lights, and a water spray mechanism.
+The **Smart Driving Assistant** is designed to enhance the safety of vehicle drivers by monitoring their alertness while driving. If the system detects drowsiness, it takes immediate action to wake the driver using a combination of audio alarms, LED lights, and a water spray mechanism.
 
 ---
 
